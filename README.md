@@ -1,13 +1,15 @@
-<h2 align="center"> Hello There 👋 </h2>
+<h1 align="center"> Hello! 👋 </h1>
 <h3 align="center"> Thanks for visiting my profile </h3>
 
-- 🔭 I’m currently working on a [Meal Planner](https://github.com/edeced/meal-planner).
-- 🌱 I’m currently learning React, Docker and Databases.
-- 👯 I’m looking to collaborate on many open source projects.
-- 🤔 I’m looking for help with building a network learning more about backend. 
-- 💬 Ask me about anything, open to conversation. 
-- 📫 How to reach me: [Email](cedanoedward@gmail.com), [Twitter](https://twitter.com/ededced), [LinkedIn](https://www.linkedin.com/in/edward-cedano-592922a7/).
-- ⚡ Fun fact: I ❤️ [Cinnamon](https://github.com/CinnSann), our cat 🐈‍⬛ Garbi, and Yoga 
+I'm Edward, soon to be certified as a full-stack developer, seeking opportunities to work and collaborate on projects.
+
+- 🔭 Currently working on a [Meal Planner app](https://github.com/edeced/meal-planner).  
+- 🌱 Right now I'm learning React, Docker and Databases.  
+- 👯 Looking to collaborate on many open source projects.  
+- 🤔 I’m looking for help with learning more about backend developement.   
+- 💬 Ask me about anything, open to conversation.   
+- 📫 How to reach me: [Email](cedanoedward@gmail.com), [Twitter](https://twitter.com/ededced), [LinkedIn](https://www.linkedin.com/in/edward-cedano-592922a7/).  
+- ⚡ Fun fact: I ❤️ [Cinnamon](https://github.com/CinnSann), our cat 🐈‍⬛ Garbi, and Yoga.   
 
 ![](https://github-readme-stats.vercel.app/api?username=edeced&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
