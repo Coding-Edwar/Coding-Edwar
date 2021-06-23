@@ -1,15 +1,15 @@
 <h1 align="center"> Hello! 👋 </h1>
 <h3 align="center"> Thanks for visiting my profile </h3>
 
-I'm Edward, soon to be certified as a full-stack developer, seeking opportunities to work and collaborate on projects.
+I'm Edward, certified full-stack developer, seeking opportunities L1 Developer.
 
-- 🔭 Currently working on a [Meal Planner app](https://github.com/edeced/meal-planner).  
-- 🌱 Right now I'm learning React, Docker and Databases.  
-- 👯 Looking to collaborate on many open source projects.  
-- 🤔 I’m looking for help with learning more about backend developement.   
-- 💬 Ask me about anything, open to conversation.   
-- 📫 How to reach me: [Email](cedanoedward@gmail.com), [Twitter](https://twitter.com/ededced), [LinkedIn](https://www.linkedin.com/in/edward-cedano-592922a7/).  
-- ⚡ Fun fact: I ❤️ [Cinnamon](https://github.com/CinnSann), our cat 🐈‍⬛ Garbi, and Yoga.   
+- 🔭 Currently working on a portfolio page using React, Next.js and TailiwindCSS.  
+- 🌱 Right now I'm learning Next.js.  
+- 👯 Looking to contribute on open source projects.  
+- 🤔 I’m looking for help with learning more Data Analytics.   
+- 💬 Ask me about anything, I'm open to conversation.   
+- 📫 How to reach me: 
+  - Email - [cedanoedward@gmail.com](cedanoedward@gmail.com), Twitter - [twitter.com/ededced](https://twitter.com/ededced), LinkedIn - [www.linkedin.com/in/edeced](https://www.linkedin.com/in/edward-cedano-592922a7/).   
 
 ![](https://github-readme-stats.vercel.app/api?username=edeced&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
