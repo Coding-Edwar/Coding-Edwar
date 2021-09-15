@@ -9,9 +9,9 @@ I'm Edward, certified full-stack developer, seeking opportunities L1 Developer.
 - 🤔 I’m looking for help with learning more Data Analytics.   
 - 💬 Ask me about anything, I'm open to conversation.   
 - 📫 How to reach me: 
-  - Email - [cedanoedward@gmail.com](cedanoedward@gmail.com), Twitter - [twitter.com/ededced](https://twitter.com/ededced), LinkedIn - [www.linkedin.com/in/edeced](https://www.linkedin.com/in/edward-cedano-592922a7/).   
+  - Email - [cedanoedward@gmail.com](cedanoedward@gmail.com), Twitter - [https://twitter.com/Coding_Edwar](https://twitter.com/ededced), LinkedIn - [www.linkedin.com/in/edeced](https://www.linkedin.com/in/edward-cedano-592922a7/).   
 
-![](https://github-readme-stats.vercel.app/api?username=edeced&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api?username=coding-edwar&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br>
 <table>
